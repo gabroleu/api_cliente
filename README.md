@@ -19,15 +19,16 @@ Toda a comunicação entre frontend e backend é realizada via **API REST**.
 
 ## 🧱 Arquitetura
 
+```text
 api-fullstack/
 ├── backend/
-│ ├── src/
-│ ├── package.json
-│ └── tsconfig.json
+│   ├── src/
+│   ├── package.json
+│   └── tsconfig.json
 └── frontend/
-├── src/
-├── package.json
-└── tsconfig.json
+    ├── src/
+    ├── package.json
+    └── tsconfig.json
 
 
 ---
