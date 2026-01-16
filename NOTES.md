@@ -2,8 +2,8 @@
 
 ## Ideias
 - Criar CRUD completo de clientes
-- Adicionar validação com Zod
-- Documentar API com Swagger
+- Adicionar validação
+- Documentar API 
 
 ## Decisões Técnicas
 - Fastify ao invés de Express (performance)
