@@ -33,7 +33,7 @@ api-cliente/
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+> Tecnologias Utilizadas
 
 ### Backend
 - **Node.js**
