@@ -6,7 +6,7 @@ O objetivo é fornecer uma base sólida para estudos, portfólio e evolução pa
 
 ---
 
-## 📌 Visão Geral
+> Visão Geral
 
 A aplicação permite:
 - Cadastro de clientes
@@ -17,7 +17,7 @@ Toda a comunicação entre frontend e backend é realizada via **API REST**.
 
 ---
 
-## 🧱 Arquitetura
+> Arquitetura
 
 ```text
 api-cliente/
@@ -33,7 +33,7 @@ api-cliente/
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+> Tecnologias Utilizadas
 
 ### Backend
 - **Node.js**
