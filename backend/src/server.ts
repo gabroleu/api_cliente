@@ -1,8 +1,16 @@
 import Fastify from "fastify"; //importando a factory function do fastify (performancce)
-import {routes} from './routes'
+import {routes} from './routes';
 import cors from '@fastify/cors'
+import { error } from "node:console";
+import { request } from "node:http";
 
 const app = Fastify({logger: true}) //criando a instância do servidor Fastify (ativa o log interno, faz o Fastify logar automaticamente)
+
+app.setErrorHandler((error, request, reply) => {
+    reply.code(400).send({ message: error.message})
+})
+
+
 
 const start = async () => { //definindo uma função assícrona responsável por subir o servidor (controle de erro, facilita testes)
     
