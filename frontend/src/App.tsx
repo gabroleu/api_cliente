@@ -1,7 +1,10 @@
 export default function App() {
   return (
-    <div>
-    <h1 className="text-3xl font-bold italic">API Cliente</h1>
+    <div className="w-full min-h-screen bg-gray-800 flex justify-center px-4">
+      < main className="my-10 w-full">
+      <h1 className="text-4xl font-medium text-blue-500">Clientes</h1>
+      </main>
+  
     </div>
 )
 }
