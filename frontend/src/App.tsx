@@ -1,7 +1,7 @@
-export default function App(){
-  return(
+export default function App() {
+  return (
     <div>
-      <h1>API CLIENTE</h1>
+    <h1 className="text-3xl font-bold italic">API Cliente</h1>
     </div>
-  )
+)
 }
