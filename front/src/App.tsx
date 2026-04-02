@@ -1,4 +1,7 @@
+import { useEffect, useState } from 'react'
 import {FiTrash} from 'react-icons/fi'
+import { api} from './services/api'
+
 
 export default function App() {
   return (
