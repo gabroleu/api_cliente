@@ -24,3 +24,6 @@ src/
 ├── App.tsx        # Componente raiz
 ├── main.tsx       # Entry point
 └── index.css      # Estilos globais
+
+
+## 
