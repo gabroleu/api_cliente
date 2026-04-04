@@ -26,4 +26,4 @@ src/
 └── index.css      # Estilos globais
 
 
-## 
+##
