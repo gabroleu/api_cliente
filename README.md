@@ -38,19 +38,19 @@ api-cliente/
 Backend
 - Node.js
 - TypeScript
-- **Fastify**
-- **API REST**
-- **Banco de Dados** (persistência de dados dos clientes)
+- Fastify
+- API REST
+- Banco de Dados** (persistência de dados dos clientes)
 
-### Frontend
-- **React.js**
-- **TypeScript**
-- **Consumo de API REST**
-- **Componentização e estado**
+Frontend
+- React.js
+- TypeScript
+- Consumo de API REST
+- Componentização e estado
 
 
 
-### Backend (API)
+Backend (API)
    - Criar API REST utilizando **Fastify**
    - Comunicação com banco de dados
    - Cadastrar novo cliente com:
@@ -60,7 +60,7 @@ Backend
    - Listar clientes cadastrados
    - Deletar cliente com base em um **ID**
 
-### Frontend (Web)
+Frontend (Web)
   - Consumir a API REST
   - Listar todos os clientes cadastrados
   - Cadastrar novo cliente informando:
