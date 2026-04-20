@@ -35,9 +35,9 @@ api-cliente/
 
 > Tecnologias Utilizadas
 
-### Backend
-- **Node.js**
-- **TypeScript**
+Backend
+- Node.js
+- TypeScript
 - **Fastify**
 - **API REST**
 - **Banco de Dados** (persistência de dados dos clientes)
