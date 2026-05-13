@@ -57,6 +57,7 @@ Backend (API)
    - Nome
    - Email
    - Status
+   - ID pessoal
    - Listar clientes cadastrados
    - Deletar cliente com base em um **ID**
 
