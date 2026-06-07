@@ -1,4 +1,4 @@
-# API Cliente – Gerenciamento de Clientes
+# API Cliente – Gerenciamento de Clientes (em desenvolvimento)
 
 Projeto fullstack para gerenciamento de clientes, composto por um **backend em Node.js com Fastify** e um **frontend em React.js com TypeScript**, seguindo boas práticas de APIs REST e separação de responsabilidades.
 
